@@ -1,0 +1,27 @@
+{
+  "name": "n-chess-queens-genetic-algorithm",
+  "version": "0.1.0",
+  "description": "The N queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandovaledwin/n-chess-queens-genetic-algorithm.git"
+  },
+  "keywords": [
+    "8",
+    "chess",
+    "queens",
+    "genetic",
+    "algorithm"
+  ],
+  "author": "Carlos Edwin Sandoval Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandovaledwin/n-chess-queens-genetic-algorithm/issues"
+  },
+  "homepage": "https://github.com/sandovaledwin/n-chess-queens-genetic-algorithm#readme"
+}
