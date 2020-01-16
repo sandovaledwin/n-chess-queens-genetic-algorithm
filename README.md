@@ -3,8 +3,9 @@ The N queens puzzle is the problem of placing N chess queens on an N×N chessboa
 
 This project was developed following some of the main ideas found in the next research about the subject:
 
-* [An Adaptive Genetic Algorithm for Solving NQueens Problem]
-(https://arxiv.org/abs/1802.02006).
+* [An Adaptive Genetic Algorithm for Solving NQueens Problem](https://arxiv.org/abs/1802.02006).
+
+![N-Queens-Puzzle](https://github.com/sandovaledwin/n-chess-queens-genetic-algorithm/blob/master/n-queens-chess-board.gif)
 
 ## Prerequisites
 
