@@ -1,5 +1,5 @@
-const BOARD_ROWS = 16;
-const BOARD_COLS = 16;
+const BOARD_ROWS = 8;
+const BOARD_COLS = 8;
 const MAX_ITERATIONS = 10000;
 const MUTATION_CHANCE = 0.5;
 const POPULATION_SIZE = 30;
